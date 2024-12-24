@@ -29,7 +29,7 @@ async function runQueryExample() {
       email: "dpdateduser@gmail.com",
       age: 35,
       isActive: false,
-      tags: ["developer"],
+      tags: ["developer"],    
     });
 
     // const newUser = new User({
